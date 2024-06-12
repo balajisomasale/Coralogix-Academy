@@ -60,7 +60,7 @@ Basics of Regions and API Keys:
     Connecting Coralogix to your S3 Archive
   </summary>
 
-An important note is that we need to be the same region: coralogix domain and 
+An important note is that we need to be the same region: coralogix domain(https://coralogix.com/docs/coralogix-domain/) and aws region
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/c95e18ae-e74d-4d35-9400-902a5e11f86c)
 
