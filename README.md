@@ -118,3 +118,9 @@ An important note is that we need to be the same region: coralogix domain(https:
   
 </details>
 
+<details>
+  <summary>
+    3.1 Coralogix Academy - OpenTelemetry and Coralogix Integration
+  </summary>
+
+  https://coralogix.com/docs/opentelemetry/
