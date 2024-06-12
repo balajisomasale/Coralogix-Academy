@@ -105,6 +105,7 @@ An important note is that we need to be the same region: coralogix domain(https:
   <summary>
     [Hands-on] Coralogix Extensions
   </summary>
+
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/26bd4240-53e1-4d35-afb5-e16fbb04ced2)
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/d8a7efe6-9686-4a2b-bd02-0491e7e52690)
