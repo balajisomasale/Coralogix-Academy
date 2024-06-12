@@ -53,5 +53,47 @@ Basics of Regions and API Keys:
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/fdeb1365-1914-4ead-8ff9-6c61d86910a4)
 
+</details>
+
+<details>
+  <summary>
+    Connecting Coralogix to your S3 Archive
+  </summary>
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/c95e18ae-e74d-4d35-9400-902a5e11f86c)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/7e4572fd-36ae-4d62-b18d-bd40c668ef2d)
+
+```
+{
+    "Version": "2012-10-17",
+    "Id": "MyPolicyID",
+    "Statement": [
+        {
+            "Sid": "MyStatementSid",
+            "Effect": "Allow",
+            "Principal": {
+                "AWS": "arn:aws:iam::739076534691:role/coralogix-archive-us2"
+            },
+            "Action": [
+                "s3:GetObject",
+                "s3:ListBucket",
+                "s3:PutObject",
+                "s3:PutObjectTagging",
+                "s3:GetObjectTagging",
+                "s3:DeleteObject",
+                "s3:DeleteObjectVersion",
+                "s3:DeleteObjectTagging",
+                "s3:DeleteObjectVersionTagging"
+            ],
+            "Resource": [
+                "arn:aws:s3:::my-coralogix-bucket1",
+                "arn:aws:s3:::my-coralogix-bucket1/*"
+            ]
+        }
+    ]
+}
+```
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/043cbc45-5486-4acd-8490-25311e511dac)
 
 </details>
