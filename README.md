@@ -57,7 +57,7 @@ Basics of Regions and API Keys:
 
 <details>
   <summary>
-    Connecting Coralogix to your S3 Archive
+    [Hands-on] Connecting Coralogix to your S3 Archive
   </summary>
 
 An important note is that we need to be the same region: coralogix domain(https://coralogix.com/docs/coralogix-domain/) and aws region
@@ -100,3 +100,20 @@ An important note is that we need to be the same region: coralogix domain(https:
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/043cbc45-5486-4acd-8490-25311e511dac)
 
 </details>
+
+<details>
+  <summary>
+    [Hands-on] Coralogix Extensions
+  </summary>
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/26bd4240-53e1-4d35-afb5-e16fbb04ced2)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/d8a7efe6-9686-4a2b-bd02-0491e7e52690)
+
+- Once we use `Deploy` option on top right, All Alerts will be created and are visible in `Alert Management`
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/6b9b720d-4a29-405f-8b5d-66e89ee42c0c)
+
+- To remove it, just `remove` from top right where it was deployed. Very fast and effective way in coralogix
+  
+</details>
+
