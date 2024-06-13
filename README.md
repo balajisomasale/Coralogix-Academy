@@ -161,7 +161,29 @@ Tracing:
 
 <details>
   <summary>
-    [Hands-on] 3.3 Coralogix Academy - Open Telemetry, Coralogix & Kubernetes
+    [3.3 Coralogix Academy - Open Telemetry, Coralogix & Kubernetes
   </summary>
-  
+  Kubernetes not connecting in windows 
+
+Before starting, Get to know about Helm ? 
+
+https://circleci.com/blog/what-is-helm/#:~:text=The%20Helm%20application%20library%20uses,commands%20to%20control%20the%20cluster.
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/90ca314b-8449-451d-82fa-da45cf784767)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/846a22f2-9733-416e-b559-102499514eef)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/428d1808-95f8-4a6d-b4d4-a2121014decb)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/533c8de0-457f-406a-a444-49db6f8f4788)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/7e57ec1d-f39b-45b0-8bb5-b23cc2b0ffc2)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/11014aa0-53e4-42aa-9b6f-c2dbe539f36e)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/898fa402-c1d5-4a30-a8a0-5c11837a3200)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/bdad7e55-41ce-44a0-8a83-7c9ba00c327f)
+
+
 </details>
