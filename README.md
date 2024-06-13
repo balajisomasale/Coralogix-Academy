@@ -137,5 +137,4 @@ Coralogix AWS Lambda Telemetry Exporter: https://coralogix.com/docs/coralogix-aw
 
 Create Lambda function again in aws and follow the video for environment variables setup and other 
 
-https://www.youtube.com/watch?v=Kfattcxiczc&list=PLponjU1wie0a-vy5teOP1A-X6QyK426FK&index=10&ab_channel=Coralogix
 </details>
