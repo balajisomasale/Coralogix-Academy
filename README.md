@@ -185,5 +185,11 @@ https://circleci.com/blog/what-is-helm/#:~:text=The%20Helm%20application%20libra
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/bdad7e55-41ce-44a0-8a83-7c9ba00c327f)
 
+</details>
 
+<details>
+  <summary>
+   [hands-on] 3.4 Coralogix Academy - ECS to Coralogix using OpenTelemetry
+  </summary>
+  Link: https://coralogix.com/docs/opentelemetry-using-ecs-ec2/
 </details>
