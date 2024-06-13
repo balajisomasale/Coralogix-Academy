@@ -124,3 +124,18 @@ An important note is that we need to be the same region: coralogix domain(https:
   </summary>
 
   https://coralogix.com/docs/opentelemetry/
+</details>
+
+
+<details>
+  <summary>
+    [Hands-on] 3.2 Coralogix Academy - OpenTelemetry Lambda Function with Coralogix
+  </summary>
+Coralogix AWS Lambda Telemetry Exporter: https://coralogix.com/docs/coralogix-aws-lambda-telemetry-exporter/
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/4bced9f6-af65-4b60-85b7-445f022cbb4b)
+
+Create Lambda function again in aws and follow the video for environment variables setup and other 
+
+https://www.youtube.com/watch?v=Kfattcxiczc&list=PLponjU1wie0a-vy5teOP1A-X6QyK426FK&index=10&ab_channel=Coralogix
+</details>
