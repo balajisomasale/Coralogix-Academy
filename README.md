@@ -137,4 +137,24 @@ Coralogix AWS Lambda Telemetry Exporter: https://coralogix.com/docs/coralogix-aw
 
 Create Lambda function again in aws and follow the video for environment variables setup and other 
 
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/ba0ebb54-a644-4954-ad17-58d1605054cc)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/77fe131b-0bc0-437f-83e2-a9dd4cac7fd6)
+
+Add a layer > choose specific ARN:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/bf65c2f1-e6ce-4aa0-86f5-265c2024e3eb)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/1e87e329-d119-4343-a280-97210b89a5ba)
+
+Back to coralogix:
+
+Logs:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/17b7f1fc-29ff-4211-9bfb-d96195d07414)
+
+Tracing:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/4db3fe82-0eef-490f-a5e1-cafadba392d8)
+
 </details>
