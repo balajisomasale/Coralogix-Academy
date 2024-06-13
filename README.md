@@ -158,3 +158,10 @@ Tracing:
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/4db3fe82-0eef-490f-a5e1-cafadba392d8)
 
 </details>
+
+<details>
+  <summary>
+    [Hands-on] 3.3 Coralogix Academy - Open Telemetry, Coralogix & Kubernetes
+  </summary>
+  
+</details>
