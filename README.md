@@ -223,5 +223,28 @@ Coralogix:
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/841d73ec-17c8-4671-a0b2-2665939e6e26)
 
+</details>
+
+<details>
+  <summary>4.1,4.2 Coralogix Academy - Introduction to Parsing Rules</summary>
+ 
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/76a871ad-2f10-4188-8bee-6d709c3485b2)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/db29c0c6-b90c-4e0d-9f80-54b7493ff8d4)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/008911cf-c0b6-4c22-9cce-7dc0dbcaa000)
+
+</details>
+
+<details>
+  <summary> 4.3 Coralogix Academy - Regex Basics </summary>
+  
+Blog Link: https://coralogix.com/docs/log-parsing-rules/#parse
+
+Best Regex website: https://regex101.com/
+
+</details>
+
+<details><summary>4.4 Parsing rules: Parse</summary>
 
 </details>
