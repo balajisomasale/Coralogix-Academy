@@ -245,9 +245,35 @@ Best Regex website: https://regex101.com/
 
 </details>
 
-<details><summary>4.4 Parsing rules: Parse</summary>
+<details><summary>4.4 Parsing rules</summary>
 
+Extract:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/230ee8e0-2421-48a0-8572-6de0b354674c)
+
+JSON Extract:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/5e10ccfc-1cf9-4340-b42e-fa55588cabe8)
+
+Pull severity from AWS-ELB logs:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/0913d0cb-88cb-43c2-a239-8f6738fff85d)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/2843bbc9-1409-461b-ac43-7b3324000c94)
+
+REPLACE: 
+
+- Get rid of password visibility:
+
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/e6086886-9d21-45c6-bdb3-f4ac30a2db1b)
+
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/bb6b47de-5d1e-4a19-99b2-cd4258f25297)
+
+- Get rid of unwanted words like `DATA` here:
+
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/0c711ecf-f9a0-4e9e-af1e-4b0b54e3fc05)  
+
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/abc69e08-9f7e-452b-9de5-e2d3d04f5801)
 
 </details>
 
-</details>
