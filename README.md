@@ -275,5 +275,40 @@ REPLACE:
 
   ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/abc69e08-9f7e-452b-9de5-e2d3d04f5801)
 
+BLOCK: 
+- used for fata cleansing
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/6391fea2-e1f8-4b77-88f1-d9981da42e67)
+
+
+If you don't want the logs but just want to see it in S3:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/b903ad14-9b63-4d06-af2e-a3e2d29eea3d)
+
+TIMESTAMP Extract Rule:
+
+1) First parsing
+
+     ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/c5d11ea0-3500-42dd-85bf-366d5743418b)
+
+      ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/0c01406f-d0ad-4630-8051-a57b05bf1cc1)
+
+2) then timestamp extracting
+   
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/3baac555-d792-4e42-8641-0a8d37f4f50d)
 </details>
+
+<details>
+  <summary> AWS Enrichment: </summary>
+
+Choose the AWS instance and its key pairs or tags and get insights out of it:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/b8fdb99c-2e43-4a91-a479-fa7d01ed7542)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/9475b6ab-3812-4b87-9954-f7a1cacee556)
+
+
+</details>
+
+
+
 
