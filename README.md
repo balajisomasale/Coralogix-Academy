@@ -191,5 +191,37 @@ https://circleci.com/blog/what-is-helm/#:~:text=The%20Helm%20application%20libra
   <summary>
    [hands-on] 3.4 Coralogix Academy - ECS to Coralogix using OpenTelemetry
   </summary>
-  Link: https://coralogix.com/docs/opentelemetry-using-ecs-ec2/
+Blog Link: https://coralogix.com/docs/opentelemetry-using-ecs-ec2/
+
+Github Repo: https://github.com/coralogix/cloudformation-coralogix-aws/tree/master/opentelemetry/ecs-ec2
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/eb33e6e8-6633-4d81-ae67-ecdedc181048)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/1bb78c43-7a0a-4ca6-8a1f-e1ab68e90aac)
+
+Create stack from cloudformation:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/e1c2d486-c59c-4ed3-92b2-63555ab0308d)
+
+Template file: https://github.com/coralogix/cloudformation-coralogix-aws/blob/master/opentelemetry/ecs-ec2/template.yaml
+
+copy it to local and upload it in stack in cloud formation
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/2f51eee3-f0fc-4df1-818b-7acdd83b43d1)
+
+we can also visualize the services that are going to be created using `view designer`
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/a688f44d-e841-482d-ae4f-f1c3c7d18e88)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/981fc2e9-1650-47bb-b72e-b34bb793d1e4)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/a73d1d59-4a76-41fb-a30c-76f0ae39baa3)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/852944cb-bf5c-49af-99ae-309be124f9db)
+
+Coralogix:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/841d73ec-17c8-4671-a0b2-2665939e6e26)
+
+
 </details>
