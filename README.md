@@ -332,6 +332,15 @@ Search the similar errors in logs that are filtered by Machine learning models u
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/621e2620-4684-448e-a4d3-f465c273fe59)
 
+</details>
 
+<details>
+  <summary>
+    PromQl 
+  </summary>
+
+ ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/8a89c58e-d1a3-4af6-9870-21d8984176f9)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/b09b880a-bed5-4fc6-96e9-c99f7b74c474)
 
 </details>
