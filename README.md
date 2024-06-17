@@ -325,4 +325,13 @@ Search the similar errors in logs that are filtered by Machine learning models u
 
 </details>
 
+<details>
+  <summary>
+    Tracing Tips in coralogix
+  </summary>
 
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/621e2620-4684-448e-a4d3-f465c273fe59)
+
+
+
+</details>
