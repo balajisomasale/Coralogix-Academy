@@ -309,6 +309,20 @@ Choose the AWS instance and its key pairs or tags and get insights out of it:
 
 </details>
 
+<details>
+  <summary> Logging Lucene(Query Language) Tips </summary>
+To run a `REGEX` in the search box: we should use `message.keyword: your_regex_pattern` instead of just `message: your_regex_pattern`
 
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/cc17782c-cbad-48a2-93fb-f50d090c91ba)
+
+Dataprime:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/d6b3ce0b-f537-435c-9339-e5834d6e4ab5)
+
+Search the similar errors in logs that are filtered by Machine learning models under `Templates`:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/4c7c100c-2e76-475a-bcd8-8939a5754c64)
+
+</details>
 
 
