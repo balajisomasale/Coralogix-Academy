@@ -379,4 +379,21 @@ Cloudwatch via Firehose Integration:
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/0b8e893e-933d-41de-8535-8d6600d8e05f)
 
+what is Firehose? 
+
+https://aws.amazon.com/firehose/
+
+Setting up Firehose Manually:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/a3c5649c-ce1c-4cad-8656-75ecbedcb2d5)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/3bcd684e-7419-4098-89e2-5fde0fb3a1b6)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/0d5bca86-ab28-4f9e-ab78-e3c290f1b904)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/d8a3ff13-d77a-4ff9-a79f-2ad502b028ba)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/7575b628-6488-4e2b-8feb-f4c9ec06462c)
+
+
 </details>
