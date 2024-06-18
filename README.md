@@ -432,5 +432,46 @@ Integration: Cloudwatch to Coralogix Firehose:
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/62d52a66-e2e7-46da-9a92-5295af2c1d3e)
 
+### Cloudwatch Logs via the Lambda Shipper:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/4194611f-14a5-45f8-89a2-969b594bf18c)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/a0d495fd-b696-45c4-a3ec-6b6d7ae9b886)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/1c28566c-715f-4ea7-9231-8ec1c8dc043b)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/b77590db-442a-4e9e-afbd-a94ef06cfee7)
+
+Create `Cloud Formation` creates a auto-populated fields with coralogix 
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/805ca51c-16a8-4aaf-8f4d-17348e625f4c)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/bb91cc64-dd7f-4dae-929a-d4cf3f6e054f)
+
+Once submitted, it will automatically deploy `LAMBDA function` and subscribe to the `log groups`
+
+Lambda will be created and then logs will be generated in log groups
+
+### VPC Flow logs Using the Coralogix Lambda Shipper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </details>
