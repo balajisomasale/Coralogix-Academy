@@ -449,16 +449,17 @@ Create `Cloud Formation` creates a auto-populated fields with coralogix
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/bb91cc64-dd7f-4dae-929a-d4cf3f6e054f)
 
 Once submitted, it will automatically deploy `LAMBDA function` and subscribe to the `log groups`
-
-Lambda will be created and then logs will be generated in log groups
+- Flow: Lambda will be created and then logs will be generated in log groups
 
 ### VPC Flow logs Using the Coralogix Lambda Shipper
 
+S3 bucket with VPC flow logs integrated already 
 
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/9d70b1a8-075a-4c33-aa7b-eb4cc796f92f)
 
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/faafde44-ab21-4626-b372-3bcebedad959)
 
-
-
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/a1e1ffa0-931e-4681-8ff5-e335c1a76c51)
 
 
 
