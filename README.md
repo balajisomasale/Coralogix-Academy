@@ -477,6 +477,38 @@ Coralogix > Contextual data > SNS
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/e30834f3-5235-46e9-9687-918ae4e81a42)
 
+AWS Status Logs: only 1 enable button
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/2c692895-d4a1-4311-ad63-be3064e9fe9c)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/5e468152-eb20-4972-b775-ebd04239ea5c)
+
+### Pushing CI/CD Events to Coralogix with CodeBuild:
+
+- Your CI/CD events are probably the single most important events in your system, marking each and every time there is a change released into your cloud environment. Learn how easy it is to connect CodeBuild to Coralogix.
+- AWS Blog: https://coralogix.com/solutions/aws-observability/
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/fb0f7283-3edf-4859-9b70-9156156069fa)
+
+Test repo for curl: 
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/8feb6d70-6348-435e-8e16-208ec160e278)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/65026174-a50e-418a-99a8-1c01fc9566de)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/17f53c72-5022-4255-9c24-25f70e05051f)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/9fead89a-487b-4b88-97ca-e9e94d2e3b68)
+
+### Connecting Alerts to EventBridge:
+
+
+
+
+
+
+
+
+
 
 
 
