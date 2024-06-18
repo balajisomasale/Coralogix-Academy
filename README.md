@@ -461,14 +461,21 @@ S3 bucket with VPC flow logs integrated already
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/a1e1ffa0-931e-4681-8ff5-e335c1a76c51)
 
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/d1c4d3f0-2f65-42b4-9ea2-d105cfc3999f)
 
+### Collecting SNS Notifications in Coralogix:
 
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/10fc016d-8ce3-4fb2-bf07-b39bac9b8919)
 
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/29f6e3ad-5ccb-4dd0-9114-8401bdf4d2b4)
 
+Coralogix > Contextual data > SNS 
 
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/6450fc21-2137-4256-9db0-7e31111b5fba)
 
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/517d81dd-95fc-4db9-bf7c-85c360d9f80a)
 
-
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/e30834f3-5235-46e9-9687-918ae4e81a42)
 
 
 
