@@ -344,3 +344,25 @@ Search the similar errors in logs that are filtered by Machine learning models u
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/b09b880a-bed5-4fc6-96e9-c99f7b74c474)
 
 </details>
+
+<details>
+  <summary>
+    Coralogix K8s Academy - Kubernetes Course Intro
+  </summary>
+
+Link: https://coralogix.com/solutions/kubernetes-monitoring/
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/310419a2-a4b6-468b-85f9-147cb0cf9c50)
+
+Nothing specific about Kubernetes but just about metrics and logs of the pods 
+
+</details>
+
+<details>
+  <summary>
+    Coralogix AWS Academy - Intro 
+  </summary>
+
+Start from here: https://www.youtube.com/watch?v=MsM_fnGpmRo&list=PLponjU1wie0a-vy5teOP1A-X6QyK426FK&index=121&ab_channel=Coralogix
+
+</details>
