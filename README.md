@@ -365,4 +365,18 @@ Nothing specific about Kubernetes but just about metrics and logs of the pods
 
 Start from here: https://www.youtube.com/watch?v=MsM_fnGpmRo&list=PLponjU1wie0a-vy5teOP1A-X6QyK426FK&index=121&ab_channel=Coralogix
 
+Custom Actions:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/84744de8-1bdd-4a7d-9687-677dd63c8210)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/cab9f01f-b7a0-4120-b082-f52abf5f9b77)
+
+Cloudwatch via Firehose Integration: 
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/d4f7240c-2b5d-414a-bbbb-bdba8912702a)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/20816f36-7756-44a8-b49e-3c4cde1f1c59)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/0b8e893e-933d-41de-8535-8d6600d8e05f)
+
 </details>
