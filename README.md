@@ -430,5 +430,7 @@ Integration: Cloudwatch to Coralogix Firehose:
 
 ### Lambda Integration Overview:
 
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/62d52a66-e2e7-46da-9a92-5295af2c1d3e)
+
 
 </details>
