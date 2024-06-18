@@ -360,10 +360,14 @@ Nothing specific about Kubernetes but just about metrics and logs of the pods
 
 <details>
   <summary>
-    Coralogix AWS Academy - Intro 
+   [Hands-on] Coralogix AWS Academy - Intro 
   </summary>
 
 Start from here: https://www.youtube.com/watch?v=MsM_fnGpmRo&list=PLponjU1wie0a-vy5teOP1A-X6QyK426FK&index=121&ab_channel=Coralogix
+
+AWS Custom dashboard:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/c2db51ad-7b9b-4844-a056-84463c5b0d46)
 
 Custom Actions:
 
@@ -394,6 +398,37 @@ Setting up Firehose Manually:
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/d8a3ff13-d77a-4ff9-a79f-2ad502b028ba)
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/7575b628-6488-4e2b-8feb-f4c9ec06462c)
+
+- Firehose acts like a middleware
+
+Integration: Cloudwatch to Coralogix Firehose:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/ce1d0b2b-aadb-4ca9-ac4e-ecce9d11e8cf)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/94b0af4e-1a08-40db-8d26-7dfdc678a724)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/c20c6a45-f974-4eaa-b11d-7e23f176337d)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/f498919f-702c-42b1-966c-ab2a7fc91d24)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/5a8f5cf2-666a-4c05-ba38-4ccc009adffa)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/a3291c28-5181-4648-9c59-42ca97e5b05e)
+
+### Linking AWS WAF to Firehose:
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/a405484d-3266-4ff0-a82f-ee427f71ede6)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/7624bfbd-0db1-4608-835c-1619be7203d3)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/49a39e41-31db-4e83-94d1-6fa0283469b3)
+
+- Enable the logging and metrics
+
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/081a9a98-1d7a-47d1-9a49-873a68479a6e)
+
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/e25eb966-98a5-48e0-8220-64858d468e95)
+
+### Lambda Integration Overview:
 
 
 </details>
