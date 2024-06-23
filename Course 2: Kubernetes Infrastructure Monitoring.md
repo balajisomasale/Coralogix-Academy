@@ -9,7 +9,7 @@ More links: https://coralogix.com/solutions/kubernetes-monitoring/
 
 Otel & Coralogix Kubernetes:
 - In this video, learn how to install your Kubernetes collector onto a Kubernetes cluster to connect with Coralogix via Open Telemetry. Coralogix is completely open-source friendly with a convenient UI and out-of-the-box configurations, extensions, and custom dashboards that make all of this a cinch.
-- [START FROM HERE]
+- [START FROM HERE] in https://www.youtube.com/watch?v=dQX8iSPg1ag&t=58s&ab_channel=Coralogix
 - Need to download, install and run the minikube in the git bash of the windows local machine.
   
 https://coralogix.com/academy/kubernetes-infrastructure-monitoring/otel-coralogix-kubernetes/
