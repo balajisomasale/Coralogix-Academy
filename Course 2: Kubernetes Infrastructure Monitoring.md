@@ -1,5 +1,5 @@
 
-Blog: https://coralogix.com/academy/kubernetes-infrastructure-monitoring/kubernetes-intro/
+Blog: [https://coralogix.com/academy/kubernetes-infrastructure-monitoring/kubernetes-intro/](https://coralogix.com/academy/kubernetes-infrastructure-monitoring/)
 
 
 <details>
