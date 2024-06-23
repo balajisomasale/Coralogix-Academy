@@ -2,10 +2,9 @@
 Blog: [https://coralogix.com/academy/kubernetes-infrastructure-monitoring/kubernetes-intro/](https://coralogix.com/academy/kubernetes-infrastructure-monitoring/)
 
 
-<details>
-  <summary>
-    Coralogix K8s Academy - Kubernetes Course Intro
-  </summary>
+
+## Coralogix K8s Academy - Kubernetes Course Intro
+
 
 Link: https://coralogix.com/solutions/kubernetes-monitoring/
 
@@ -13,4 +12,4 @@ Link: https://coralogix.com/solutions/kubernetes-monitoring/
 
 Nothing specific about Kubernetes but just about metrics and logs of the pods 
 
-</details>
+
