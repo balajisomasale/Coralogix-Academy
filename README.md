@@ -501,7 +501,7 @@ Test repo for curl:
 
 ### Connecting Alerts to EventBridge:
 
-
+https://www.youtube.com/watch?v=byVpWoiX6lw&list=PLponjU1wie0a-vy5teOP1A-X6QyK426FK&index=134&ab_channel=Coralogix
 
 
 
