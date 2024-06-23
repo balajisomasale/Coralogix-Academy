@@ -11,7 +11,7 @@ Extensions of Kubernetes:
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/310419a2-a4b6-468b-85f9-147cb0cf9c50)
 
-Nothing specific about Kubernetes but just about metrics and logs of the pods 
+Nothing specific about Kubernetes setup with coralogix but just about metrics and logs of the pods that are already integrated with kubernetes data using OTel.
 
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/c8a4eecd-eef7-4c0e-9f89-4d0375c05e3f)
@@ -21,3 +21,7 @@ Nothing specific about Kubernetes but just about metrics and logs of the pods
   ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/b117e1f4-3918-4a00-9586-4dd00f32271a)
 
 Powerful Events2Metrics Example for Kubernetes:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/8a060aa8-e0cf-46f7-b3b9-11526628265b)
+
+Kubernetes AlertsMap:
