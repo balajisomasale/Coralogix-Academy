@@ -7,6 +7,12 @@ Course: [https://coralogix.com/academy/kubernetes-infrastructure-monitoring/kube
 
 More links: https://coralogix.com/solutions/kubernetes-monitoring/
 
+Otel & Coralogix Kubernetes:
+- In this video, learn how to install your Kubernetes collector onto a Kubernetes cluster to connect with Coralogix via Open Telemetry. Coralogix is completely open-source friendly with a convenient UI and out-of-the-box configurations, extensions, and custom dashboards that make all of this a cinch.
+  
+https://coralogix.com/academy/kubernetes-infrastructure-monitoring/otel-coralogix-kubernetes/
+
+
 Extensions of Kubernetes:
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/310419a2-a4b6-468b-85f9-147cb0cf9c50)
@@ -25,3 +31,14 @@ Powerful Events2Metrics Example for Kubernetes:
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/8a060aa8-e0cf-46f7-b3b9-11526628265b)
 
 Kubernetes AlertsMap:
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/6fc768f4-afe7-4a41-b63d-c10597979de0)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/ed0b4695-a5c3-4a37-9d20-f9f6c7cfdb06)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/0e20341b-58c2-4768-bb3d-f783c7bfdcb0)
+
+![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/c7c1136f-b876-430d-814e-19b44e2783d1)
+
+Visualizing Metrics with DataMap:
+
