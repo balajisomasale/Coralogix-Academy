@@ -503,8 +503,9 @@ Test repo for curl:
 
 https://www.youtube.com/watch?v=byVpWoiX6lw&list=PLponjU1wie0a-vy5teOP1A-X6QyK426FK&index=134&ab_channel=Coralogix
 
+Proceed with learning only when you know you need it -> these can be integrated easily
 
-
+Learn Kubernetes in AWS Ubuntu servers and integrate with coralogix and monitor the logs 
 
 
 
