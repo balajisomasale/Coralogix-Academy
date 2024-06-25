@@ -13,7 +13,10 @@ Otel & Coralogix Kubernetes:
 - Need to download, install and run the minikube or from docker desktop in the git bash of the windows local machine.
 
 - Installed Docker desktop using https://balajisomasale.hashnode.dev/installing-kubernetes-on-linux-windows-and-macos-a-comprehensive-guide
-- restarted 
+- restart, enable kubernetes in settings of docker desktop
+
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/f0dc7b64-ce16-43b7-97a2-382742abead4)
+
 
 https://coralogix.com/academy/kubernetes-infrastructure-monitoring/otel-coralogix-kubernetes/
 
