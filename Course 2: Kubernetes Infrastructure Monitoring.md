@@ -17,6 +17,10 @@ Otel & Coralogix Kubernetes:
 
   ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/f0dc7b64-ce16-43b7-97a2-382742abead4)
 
+Check these links for connecting: 
+
+- https://coralogix.com/docs/kubernetes-observability-opentelemetry/
+- https://coralogix.com/docs/kubernetes-dashboard/
 Connecting coralogix with kubernetes:
 
 - Deploy the Kubernetes open telemetry in the extensions:
