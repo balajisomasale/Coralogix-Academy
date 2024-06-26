@@ -27,30 +27,44 @@ Connecting coralogix with kubernetes:
 
   ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/fa531f92-c897-4812-9f05-5e1f6e54e59d)
 
-  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/21a6dd74-27e6-42b3-b585-f11803cd864b)
+  Demo-keys: cxtp_YEIbPXEtGtNpm85QCNeS6Zf6w8qWak
 
-  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/8accda3f-c851-4d5d-a450-e9abe3d5f1e9)
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/11156951-b695-498f-8f8e-aa1b4aa152a3)
 
-  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/1bef940c-efad-4959-9ab0-2abc9cfabebb)
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/b5347dda-b669-4361-92f1-e11c5f49443c)
 
-  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/6aa648ce-f82a-4555-bad7-c363b0cafb52)
+  Make sure Kubernetes in the docker desktop is running
 
-  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/2acc224a-6c6b-423b-a9b1-5bec14ae0568)
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/e6e85d3d-6396-4e97-91c9-119a6f508036)
 
-  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/ad5122b4-3db3-4078-9144-27504e3c80f4)
-  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/8f78828c-dedc-4460-8ff6-cf9ee62f0e29)
-  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/e3552805-6acc-4188-a44b-167081892efe)
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/d9f975bc-b534-4801-81eb-29a8cf1b8375)
 
-- 
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/0e72aeac-ff05-4849-b899-483ed2933119)
 
-https://coralogix.com/academy/kubernetes-infrastructure-monitoring/otel-coralogix-kubernetes/
+  Coralogix logs:
+
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/2b9ba2e3-e71e-4faf-a333-fd44c90f8fbc)
+
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/eac7cf80-7fbb-4b70-9ffe-baf37a2c1e91)
+
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/824123cc-263b-449d-8c29-aa41b2a480bb)
+
+  Kubectl pods:
+
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/172878c4-3e92-4006-a934-e7beb436815d)
+
+  Docker Desktop:
+
+  ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/e84833dd-272b-4e48-9a9d-84407840c67a)
+
+Another useful resource: https://coralogix.com/academy/kubernetes-infrastructure-monitoring/otel-coralogix-kubernetes/
 
 
 Extensions of Kubernetes:
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/310419a2-a4b6-468b-85f9-147cb0cf9c50)
 
-Nothing specific about Kubernetes setup with coralogix but just about metrics and logs of the pods that are already integrated with kubernetes data using OTel.
+There is nothing specific about the Kubernetes setup with Coralogix but just about metrics and logs of the pods already integrated with Kubernetes data using OTel.
 
 
 ![image](https://github.com/balajisomasale/Coralogix-Academy/assets/35003840/c8a4eecd-eef7-4c0e-9f89-4d0375c05e3f)
